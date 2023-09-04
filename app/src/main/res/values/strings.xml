@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageApiApplication</string>
+    <string name="download_button">Download Image</string>
+    <string name="ToolbarTitle">Image Gallery</string>
+</resources>
